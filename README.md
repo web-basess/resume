@@ -15,9 +15,8 @@
 ##个人技能
 
 * 熟悉HTML5、CSS3、JavaScript、Sass、JQuery、createJs
-* 熟悉es2015、es6
 * 熟悉gulp、webpack、git等工具
-* 了解React框架
+* 了解React框架、es6  
 * 熟悉W3C标准，懂的表现与数据的分离，了解常用浏览器的差异，能有效的解决浏览器兼容问题
 
 ##工作经历

@@ -8,7 +8,6 @@
 * 性别：男
 * 出生年月：1988年4月8日
 * 籍贯：黑龙江－齐齐哈尔
-* 学校专业：齐齐哈尔信息工程学院
 * Email:[6345015@qq.com](6345015@qq.com)
 * github:https://github.com/web-basess
   

@@ -10,7 +10,8 @@
 * 籍贯：黑龙江－齐齐哈尔
 * Email:[6345015@qq.com](6345015@qq.com)
 * github:https://github.com/web-basess
-  
+* 个人主页：https://web-basess.github.io/blog/dist/  
+
 ##个人技能
 
 * 熟悉HTML5、CSS3、JavaScript、Sass、JQuery、createJs
@@ -41,9 +42,11 @@
 **工作内容：** 负责官网维护与更新、H5活动。  
 
 ##项目经验  
-
-* http://tonglingwangluo.com/ 统领得一网络科技股份有限公司官网  
-  主要负责整站搭建、布局、优化、兼容性调整。  
+* https://github.com/web-basess/blog 个人简历
+  **技术：** html5、css3、scss、react、react-router、webpack  
+  
+* http://tonglingwangluo.com/ 统领得一网络科技股份有限公司官网  
+  主要负责整站搭建、布局、优化、兼容性调整。  
   **技术：**html5、css3、jquery、svn  
   
 * http://94bank.com/ 94bank移动理财管家  

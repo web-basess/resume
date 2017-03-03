@@ -42,7 +42,7 @@
 **工作内容：** 负责官网维护与更新、H5活动。  
 
 ##项目经验  
-* https://github.com/web-basess/blog 个人简历
+* https://github.com/web-basess/blog 个人简历  
   **技术：** html5、css3、scss、react、react-router、webpack  
   
 * http://tonglingwangluo.com/ 统领得一网络科技股份有限公司官网  
